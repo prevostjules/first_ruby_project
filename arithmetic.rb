@@ -10,3 +10,16 @@ p 6 % 2
 
 
 p "cow" + "-" + "boy"
+
+#comment
+
+=begin
+Comment
+Comment
+=end
+
+#Better
+#several 
+#line
+#comment
+
